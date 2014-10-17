@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dga:home|Door43 (dga)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dga|d43-dga repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dga/archive/master.zip|d43-dga.zip]]
+
+**Recent Changes**
+{{changes>ns = dga}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dga|Ethnologue data]]
+
